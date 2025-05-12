@@ -88,7 +88,7 @@
     "@account-kit/signer": "^4.15.3",
     "@tanstack/react-form": "^0.33.0",
     "@tanstack/zod-form-adapter": "^0.33.0",
-    "@wagmi/connectors": "^5.1.15",
+    "@wagmi/connectors": "^5.5.2",
     "react-remove-scroll": "^2.5.10",
     "tailwindcss": "^3.4.3",
     "zod": "^3.22.4",
